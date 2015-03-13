@@ -42,7 +42,6 @@
     else
     {
 
-        NSLog(@"Oi");
         int numberOne = [self.valueOneTextField.text intValue];
         int numberTwo = [self.valueTwoTextField.text intValue];
         int result;
